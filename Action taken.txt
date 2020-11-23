@@ -4,3 +4,4 @@ disabled Microsoft Store
 disabled SearchUI.exe
 disabled Video.UI.exe
 disabled Compattelrunner.exe
+disabled startup application experience (Task Scheduler > Microsoft > Windows > Application Experience > Disabled ... Microsoft Compatibility Appraiser .. ProgramDataUpdater . StartupApp Task
