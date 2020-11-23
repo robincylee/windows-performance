@@ -1,0 +1,1 @@
+To track disabled/uninstalled windows application and process for CPU and MEMORY performance.
